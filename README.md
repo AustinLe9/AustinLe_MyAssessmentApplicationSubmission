@@ -27,4 +27,4 @@ git clone [Your Git Repository Link Here]
 3. Wait for the download to finish. 
 4. Click start the emulator.
 5. Wait for the app to load. 
-6. Enjoy your time with the app.
+6. Enjoy your time with the app.# AustinLe_MyAssessmentApplication
